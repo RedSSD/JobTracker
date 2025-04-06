@@ -4,6 +4,7 @@ Django==5.2
 flake8==6.1.0
 lazy-object-proxy==1.10.0
 mccabe==0.7.0
+psycopg2-binary==2.9.10
 pycodestyle==2.11.1
 pyflakes==3.1.0
 python-decouple==3.8
